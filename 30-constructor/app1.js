@@ -1,3 +1,5 @@
+//Constructor Extent and super key word
+
 class Employee {
   constructor(name) {
     console.log(`${name} - Employee's constructor is here`);
